@@ -19,3 +19,7 @@ To build to device, follow the steps below:
 1.  Install Unity 2021.2 or later and clone this repository.
 2. Open the Unity project at the root of this repository.
 3. As with any other Unity project, go to  [Build Settings](https://docs.unity3d.com/Manual/BuildSettings.html), select your target platform as IOS, and build this project.
+
+## To do
+
+Add other planets.
